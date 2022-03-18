@@ -17,9 +17,9 @@ public class Application {
         alpinists3[1] = new Alphinist("Лилия");
 
         // горы
-        Mountain mountain1 = new Mountain("Эверест", "Китай", 8848);
+        Mountain mountain1 = new Mountain("Чогори", "Китай", 8611);
         Mountain mountain2 = new Mountain("Эльбрус","Россия",5642);
-        Mountain mountain3 = new Mountain("Арарат", "Турция", 5137);
+        Mountain mountain3 = new Mountain("Лхоцзе", "Гималаи", 8516);
 
         // группы
         Groups groupName1 = new Groups(false, alpinists1);
